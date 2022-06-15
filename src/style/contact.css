@@ -1,0 +1,23 @@
+.inner-container {
+  background: rgba(0, 0, 0, 0.5);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  width: 400px;
+  margin: 90px auto;
+  border-radius: 50px;
+  /* border: 1px solid gray; */
+  padding: 30px 60px;
+}
+.inner-container .col-form-label {
+  width: 140px;
+}
+
+.inner-container .btn-success {
+  width: 82%;
+  border-radius: 20px;
+}
+.form-control {
+  width: 100%;
+  border-radius: 20px;
+}
